@@ -16,3 +16,5 @@ Caesar cipher:
   It uses the plaintext message letters but rearranges their order.
 
   write out the ciphertext in columns (the same number as the length of the keyword). We then order the keyword alphabetically, and write the ordered keyword at the top of the columns
+
+note : I ignored the factors with 1 in permutation cipher
